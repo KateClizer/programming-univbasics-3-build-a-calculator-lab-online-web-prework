@@ -19,5 +19,5 @@ puts = modulo(num1, num2).to
 end
 
 def square_root(num)
-puts = square_root(num)
+puts = sqrt(num)
 end
