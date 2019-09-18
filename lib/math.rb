@@ -19,5 +19,5 @@ puts = num1 % num2
 end
 
 def square_root(num)
-puts = integer.sqrt(num)
+puts = integer.sqrt(num).class
 end
